@@ -54,7 +54,7 @@ To add a menu tab in a view or a modal dialog, adds the following HTML code.
     </div>
 </div>
 <script type="module">
-    import { Z4M_TabMenu } from "./engine/modules/z4m_tabmenu/public/js/class/z4m_tabmenu-min.js?v1.0";
+    import { Z4M_TabMenu } from "./engine/modules/z4m_tabmenu/public/js/dynamic/z4m_tabmenu.min.js?v1.1";
     const viewTabMenu = new Z4M_TabMenu('#tab-buttons > button', '#tab-contents > div');    
     viewTabMenu.selectFirst(); // First tab selected
 </script>

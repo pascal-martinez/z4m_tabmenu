@@ -18,17 +18,17 @@
  * --------------------------------------------------------------------
  * Parameters of the ZnetDK 4 Mobile Tab Menu module
  *
- * File version: 1.0
- * Last update: 11/24/2024
+ * File version: 1.1
+ * Last update: 03/01/2026
  */
 
 /**
  * Module version number
  * @var string Version
  */
-define('MOD_Z4M_TABMENU_VERSION_NUMBER','1.0');
+define('MOD_Z4M_TABMENU_VERSION_NUMBER','1.1');
 /**
  * Module version date
  * @var string Date in W3C format
  */
-define('MOD_Z4M_TABMENU_VERSION_DATE','2024-11-24');
+define('MOD_Z4M_TABMENU_VERSION_DATE','2026-03-01');
